@@ -58,10 +58,18 @@ While I've built a solid foundation in web development, I'm always looking for t
 ## 📈 GitHub stats
 
 <div align="center">
+  
   <a href="https://github.com/dlsynkjsf">
-    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&show_icons=true&hide_border=true&theme=transparent&title_color=D094AA&icon_color=D094AA&text_color=C9D1D9&count_private=true&hide_rank=true&hide=stars,issues" alt="Nikolas's GitHub stats" height="150" />
-    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api/top-langs/?username=dlsynkjsf&layout=compact&hide_border=true&theme=transparent&title_color=D094AA&text_color=C9D1D9&langs_count=3" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&hide_title=true&hide_rank=true&show_icons=false&hide_border=true&theme=transparent&text_color=D094AA&count_private=true&hide=stars,issues,prs,contribs" alt="Total Commits" />
   </a>
+  
+  <br>
+  
+  <b>Top Languages</b><br><br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  
 </div>
 
 ---
@@ -69,8 +77,8 @@ While I've built a solid foundation in web development, I'm always looking for t
 <div align="center">
   
   <h3>Let's connect!</h3>
-  <a href="https://www.linkedin.com/in/npdalisay"><img src="https://img.shields.io/badge/LinkedIn-D094AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:npdalisay@gmail.com"><img src="https://img.shields.io/badge/Email-D094AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/dlsynk/"><img src="https://img.shields.io/badge/Facebook-D094AA?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/npdalisay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:npdalisay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/dlsynk/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
