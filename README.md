@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About me
 
-I'm a Computer Science student at UST who loves building things for the web. My current focus is on frontend development and UI/UX—I enjoy the challenge of making software that is as intuitive as it is functional.
+I'm a Computer Science student at UST who loves building things for the web. My current focus is on frontend development and UI/UX. I enjoy the challenge of making software that is as intuitive as it is functional.
 
 While I've built a solid foundation in web development, I'm always looking for the next steep learning curve. Right now, I'm actively exploring cloud infrastructure and machine learning to understand the engines that power modern applications. I'm an avid learner driven by a simple goal: to build smart, data-driven systems that never lose sight of the human experience.
 
