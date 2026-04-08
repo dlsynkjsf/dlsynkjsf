@@ -55,25 +55,6 @@ While I've built a solid foundation in web development, I'm always looking for t
 
 ---
 
-## 📈 GitHub stats
-
-<div align="center">
-  
-  <a href="https://github.com/dlsynkjsf">
-    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&hide_title=true&hide_rank=true&show_icons=false&hide_border=true&theme=transparent&text_color=D094AA&count_private=true&hide=stars,issues,prs,contribs" alt="Total Commits" />
-  </a>
-  
-  <br>
-  
-  <b>Top Languages</b><br><br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  
-</div>
-
----
-
 <div align="center">
   
   <h3>Let's connect!</h3>
