@@ -2,11 +2,11 @@
   
   <h1>Hi, I'm Nikolas Josef Dalisay 👋</h1>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=UI%2FUX+enthusiast;Aspiring+data+engineer;Exploring+ML+%26+Cloud+🇵🇭" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D094AA&center=true&vCenter=true&width=600&lines=UI%2FUX+enthusiast;Aspiring+data+engineer;Exploring+ML+%26+Cloud+🇵🇭" alt="Typing SVG" /></a>
   
   <p><em>🎓 University of Santo Tomas — BS Computer Science, Data Science Track</em></p>
 
-  <img src="https://komarev.com/ghpvc/?username=dlsynkjsf&color=F48FB1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dlsynkjsf&color=D094AA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -59,8 +59,8 @@ While I've built a solid foundation in web development, I'm always looking for t
 
 <div align="center">
   <a href="https://github.com/dlsynkjsf">
-    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&show_icons=true&hide_border=true&theme=transparent&title_color=F48FB1&icon_color=F48FB1&text_color=333333&count_private=true&hide=stars,prs,issues,contribs" alt="Nikolas's GitHub stats" height="150" />
-    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api/top-langs/?username=dlsynkjsf&layout=compact&hide_border=true&theme=transparent&title_color=F48FB1&text_color=333333&langs_count=3" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&show_icons=true&hide_border=true&theme=transparent&title_color=D094AA&icon_color=D094AA&text_color=C9D1D9&count_private=true&hide_rank=true&hide=stars,issues" alt="Nikolas's GitHub stats" height="150" />
+    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api/top-langs/?username=dlsynkjsf&layout=compact&hide_border=true&theme=transparent&title_color=D094AA&text_color=C9D1D9&langs_count=3" alt="Top Languages" height="150" />
   </a>
 </div>
 
@@ -69,8 +69,8 @@ While I've built a solid foundation in web development, I'm always looking for t
 <div align="center">
   
   <h3>Let's connect!</h3>
-  <a href="https://www.linkedin.com/in/npdalisay"><img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:npdalisay@gmail.com"><img src="https://img.shields.io/badge/Email-F48FB1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/dlsynk/"><img src="https://img.shields.io/badge/Facebook-F48FB1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/npdalisay"><img src="https://img.shields.io/badge/LinkedIn-D094AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:npdalisay@gmail.com"><img src="https://img.shields.io/badge/Email-D094AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/dlsynk/"><img src="https://img.shields.io/badge/Facebook-D094AA?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
