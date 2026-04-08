@@ -6,6 +6,8 @@
   
   <p><em>🎓 University of Santo Tomas — BS Computer Science, Data Science Track</em></p>
 
+  <img src="https://komarev.com/ghpvc/?username=dlsynkjsf&color=1572B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 ---
@@ -57,8 +59,8 @@ While I've built a solid foundation in web development, I'm always looking for t
 
 <div align="center">
   <a href="https://github.com/dlsynkjsf">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlsynkjsf&show_icons=true&hide_border=true&theme=transparent&title_color=1572B6&icon_color=1572B6&text_color=333333&include_all_commits=true" alt="Nikolas's GitHub stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlsynkjsf&layout=compact&hide_border=true&theme=transparent&title_color=1572B6&text_color=333333" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&show_icons=true&hide_border=true&theme=transparent&title_color=1572B6&icon_color=1572B6&text_color=333333&include_all_commits=true&count_private=true" alt="Nikolas's GitHub stats" height="150" />
+    <img src="https://github-readme-stats-two-pearl-93.vercel.app/api/top-langs/?username=dlsynkjsf&layout=compact&hide_border=true&theme=transparent&title_color=1572B6&text_color=333333" alt="Top Languages" height="150" />
   </a>
 </div>
 
