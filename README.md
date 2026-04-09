@@ -29,9 +29,11 @@
       ☁️ <b>Cloud Infrastructure:</b> AWS · GCP · Azure<br>
       🤖 <b>Machine Learning & AI:</b> Models, pipelines & data-driven systems
     </td>
-    <td width="35%" align="center">
-      <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
-    </td>
+    <div align="center">
+      <td width="35%" align="center">
+        <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
+      </td>
+    <div>
   </tr>
 </table>
 
