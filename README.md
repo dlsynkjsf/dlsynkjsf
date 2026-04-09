@@ -41,7 +41,7 @@
 
 <h3 align="center">⚙️ Technologies</h3>
 
-<br><br>
+<br>
 
 <div align="center">
   <b>Core Technologies</b><br>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   
-  <br>
+  <br><br>
   
   <b>Frameworks & Libraries</b><br>
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
