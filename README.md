@@ -41,8 +41,10 @@
 
 <h3 align="center">⚙️ Technologies</h3>
 
+<br><br>
+
 <div align="center">
-  <b>Core Technologies</b><br><br>
+  <b>Core Technologies</b><br>
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -51,17 +53,17 @@
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   
-  <br><br><br>
+  <br>
   
-  <b>Frameworks & Libraries</b><br><br>
+  <b>Frameworks & Libraries</b><br>
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
 
-  <br><br><br>
+  <br>
 
-  <b>Databases & Tools</b><br><br>
+  <b>Databases & Tools</b><br>
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
