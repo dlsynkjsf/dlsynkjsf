@@ -20,22 +20,16 @@
 
 <h3 align="center">👨‍💻 About me</h3>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="70%">
-      I'm a Computer Science student at UST who loves building things for the web. I'm aspiring to become a full-stack developer, though my current focus and strong suit lean towards frontend development and UI/UX. I enjoy the challenge of making software that is as intuitive on the surface as it is functional under the hood.<br><br>
-      While I've built a solid foundation in web development, I'm always looking for the next steep learning curve. I'm an avid learner driven by a simple goal: to build smart, data-driven systems that never lose sight of the human experience.<br><br>
-      <div align="center">
-        <b>🌱 Currently learning:</b><br>
-        ☁️ <b>Cloud Infrastructure:</b> AWS · GCP · Azure<br>
-        🤖 <b>Machine Learning & AI:</b> Models, pipelines & data-driven systems
-      </div>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://github.com/dlsynkjsf/dlsynkjsf/blob/main/about_me-supporting.jpg?raw=true" alt="Aesthetic Image" width="280" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github.com/dlsynkjsf/dlsynkjsf/blob/main/about_me-supporting.jpg?raw=true" alt="Aesthetic Image" width="280" />
+
+I'm a Computer Science student at UST who loves building things for the web. I'm aspiring to become a full-stack developer, though my current focus and strong suit lean towards frontend development and UI/UX. I enjoy the challenge of making software that is as intuitive on the surface as it is functional under the hood.<br><br>
+While I've built a solid foundation in web development, I'm always looking for the next steep learning curve. I'm an avid learner driven by a simple goal: to build smart, data-driven systems that never lose sight of the human experience.<br><br>
+
+<b>🌱 Currently learning:</b><br>
+☁️ <b>Cloud Infrastructure:</b> AWS · GCP · Azure<br>
+🤖 <b>Machine Learning & AI:</b> Models, pipelines & data-driven systems
+
+<br clear="both">
 
 <hr>
 
