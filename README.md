@@ -41,8 +41,6 @@
 
 <h3 align="center">⚙️ Technologies</h3>
 
-<br>
-
 <div align="center">
   <b>Core Technologies</b><br>
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -53,7 +51,7 @@
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   
-  <br><br>
+  <br>
   
   <b>Frameworks & Libraries</b><br>
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -61,7 +59,7 @@
   <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
 
-  <br><br>
+  <br>
 
   <b>Databases & Tools</b><br>
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
