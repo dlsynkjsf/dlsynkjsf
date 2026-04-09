@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Header Banner" width="100%" />
+  <img src="https://github.com/dlsynkjsf/dlsynkjsf/blob/main/header.png?raw=true" alt="Header Banner" width="100%" />
 </div>
 
 <br>
@@ -32,7 +32,7 @@
       </div>
     </td>
     <td width="35%" align="center">
-      <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
+      <img src="https://github.com/dlsynkjsf/dlsynkjsf/blob/main/about_me-supporting.jpg?raw=true" alt="Astronaut" width="180" />
     </td>
   </tr>
 </table>
