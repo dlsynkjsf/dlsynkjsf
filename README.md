@@ -56,7 +56,7 @@
 <h3 align="center">📈 Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlsynkjsf&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlsynkjsf&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
 <br>
