@@ -17,7 +17,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%">
-      Hello There! I'm <b>Nikolas Josef Dalisay</b>, a Computer Science student. I enjoy building things for the web, focusing on frontend development and UI/UX. Currently exploring cloud infrastructure and machine learning to build smart, data-driven systems. Working on projects like OctaCore, MaridOne, and SeePAT!<br><br>
+      Hello There!<br><br>
     </td>
     <td width="35%" align="center">
       <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
