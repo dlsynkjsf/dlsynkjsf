@@ -10,6 +10,12 @@
   <a href="https://www.facebook.com/dlsynk/"><img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dlsynkjsf&color=111111&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 <hr>
 
 <h3 align="center">👨‍💻 About me</h3>
@@ -17,7 +23,11 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%">
-      Hello There!<br><br>
+      I'm a Computer Science student at UST who loves building things for the web. My current focus is on frontend development and UI/UX. I enjoy the challenge of making software that is as intuitive as it is functional.<br><br>
+      While I've built a solid foundation in web development, I'm always looking for the next steep learning curve. Right now, I'm actively exploring cloud infrastructure and machine learning to understand the engines that power modern applications. I'm an avid learner driven by a simple goal: to build smart, data-driven systems that never lose sight of the human experience.<br><br>
+      <b>🌱 Currently learning:</b><br>
+      ☁️ <b>Cloud Infrastructure:</b> AWS · GCP · Azure<br>
+      🤖 <b>Machine Learning & AI:</b> Models, pipelines & data-driven systems
     </td>
     <td width="35%" align="center">
       <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
@@ -52,7 +62,7 @@
 <h3 align="center">📈 Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&show_icons=true&hide_border=true&theme=transparent&title_color=1572B6&icon_color=1572B6&text_color=333333&include_all_commits=true&count_private=true" alt="Nikolas's GitHub stats" height="150" />
+  <img src="https://github-readme-stats-two-pearl-93.vercel.app/api?username=dlsynkjsf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Nikolas's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlsynkjsf&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
 <br>
