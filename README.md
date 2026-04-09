@@ -25,15 +25,15 @@
     <td width="65%">
       I'm a Computer Science student at UST who loves building things for the web. My current focus is on frontend development and UI/UX. I enjoy the challenge of making software that is as intuitive as it is functional.<br><br>
       While I've built a solid foundation in web development, I'm always looking for the next steep learning curve. Right now, I'm actively exploring cloud infrastructure and machine learning to understand the engines that power modern applications. I'm an avid learner driven by a simple goal: to build smart, data-driven systems that never lose sight of the human experience.<br><br>
-      <b>🌱 Currently learning:</b><br>
-      ☁️ <b>Cloud Infrastructure:</b> AWS · GCP · Azure<br>
-      🤖 <b>Machine Learning & AI:</b> Models, pipelines & data-driven systems
+      <div align="center">
+        <b>🌱 Currently learning:</b><br>
+        ☁️ <b>Cloud Infrastructure:</b> AWS · GCP · Azure<br>
+        🤖 <b>Machine Learning & AI:</b> Models, pipelines & data-driven systems
+      </div>
     </td>
-    <div align="center">
-      <td width="35%" align="center">
-        <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
-      </td>
-    <div>
+    <td width="35%" align="center">
+      <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
+    </td>
   </tr>
 </table>
 
