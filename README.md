@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=250&section=header&text=Welcome%20to%20Niko's%20GitHub&fontSize=45&fontAlignY=40&desc=%3C/%3E&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Banner" />
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Header Banner" width="100%" />
 </div>
 
 <br>
@@ -18,13 +18,9 @@
   <tr>
     <td width="65%">
       Hello There! I'm <b>Nikolas Josef Dalisay</b>, a Computer Science student. I enjoy building things for the web, focusing on frontend development and UI/UX. Currently exploring cloud infrastructure and machine learning to build smart, data-driven systems. Working on projects like OctaCore, MaridOne, and SeePAT!<br><br>
-      🎓 Studying BS Computer Science (Data Science Track) at the University of Santo Tomas (UST)<br>
-      👔 3rd Year Level Representative of the CS Department<br>
-      🚀 Project Head for CS Graduation Ball 2026<br>
-      🎮 Valorant Player & K-pop enthusiast
     </td>
     <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/joshuarileydev/joshuarileydev/main/assets/astronaut.gif" alt="Astronaut" width="180" />
+      <img src="YOUR_ASTRONAUT_IMAGE_LINK_HERE" alt="Astronaut" width="180" />
     </td>
   </tr>
 </table>
