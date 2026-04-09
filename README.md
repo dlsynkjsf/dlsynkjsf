@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Niko's+GitHub+Profile!;Frontend+Developer+%26+UI%2FUX+Enthusiast;Computer+Science+Student+%40+UST" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Niko's+GitHub+Profile!;Aspiring+Full-Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;Computer+Science+Student+%40+UST" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="70%">
-      I'm a Computer Science student at UST who loves building things for the web. My current focus is on frontend development and UI/UX. I enjoy the challenge of making software that is as intuitive as it is functional.<br><br>
+      I'm a Computer Science student at UST who loves building things for the web. I'm aspiring to become a full-stack developer, though my current focus and strong suit lean towards frontend development and UI/UX. I enjoy the challenge of making software that is as intuitive on the surface as it is functional under the hood.<br><br>
       While I've built a solid foundation in web development, I'm always looking for the next steep learning curve. I'm an avid learner driven by a simple goal: to build smart, data-driven systems that never lose sight of the human experience.<br><br>
       <div align="center">
         <b>🌱 Currently learning:</b><br>
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
 
-  <br>
+  <br><br>
 
   <b>Databases & Tools</b><br>
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
